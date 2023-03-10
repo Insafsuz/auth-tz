@@ -8,3 +8,8 @@
   min-height: 100vh;
   @extend %flexCenter;
 }
+
+.question {
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
